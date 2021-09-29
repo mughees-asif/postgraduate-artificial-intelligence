@@ -1,4 +1,4 @@
-# Postgraduate Artificial Intelligence Course Resources 👷‍♂️
+# Postgraduate [Artificial Intelligence](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/) Course Resources 👷‍♂️
 
 ## Queen Mary, University of London
 

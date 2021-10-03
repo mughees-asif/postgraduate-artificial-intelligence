@@ -10,7 +10,7 @@
 | Semester   |      Week |  Notes | Miscellaneous  |
 |:----------:|:-------------:|:------:|:------:|
 | A |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/notes/Week%201) | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/misc) |
-|  |  2 | [Link]() ||
+|  |  2 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/notes/Week%202) ||
 |  |  3 | [Link]() | |
 |  |  4 | [Link]() ||
 |  |  5 | [Link]() | |

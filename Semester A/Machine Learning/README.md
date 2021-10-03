@@ -11,13 +11,13 @@
 |:----------:|:-------------:|:------:|:------:|
 | A |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/notes/Week%201) | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/misc) |
 |  |  2 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/notes/Week%202) ||
-|  |  3 | [Link]() | |
-|  |  4 | [Link]() ||
-|  |  5 | [Link]() | |
-|  |  6 | [Link]() | |
+|  |  3 | [Empty]() | |
+|  |  4 | [Empty]() ||
+|  |  5 | [Empty]() | |
+|  |  6 | [Empty]() | |
 |  |  7 |  | --- Reading Week --- |
-|  |  8 | [Link]() | |
-|  |  9 | [Link]() | |
-|  |  10 | [Link]() |  |
-|  |  11 | [Link]() | |
-|  |  12 | [Link]() |  |
+|  |  8 | [Empty]() | |
+|  |  9 | [Empty]() | |
+|  |  10 | [Empty]() |  |
+|  |  11 | [Empty]() | |
+|  |  12 | [Empty]() |  |

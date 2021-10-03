@@ -6,14 +6,14 @@ Recent years have seen a sharp rise in the use of speech- and language-processin
 | Semester   |      Week |  Notes | Miscellaneous  |
 |:----------:|:-------------:|:------:|:------:|
 | A |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/notes/Week%201) | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/misc) |
-|  |  2 | [Link]() ||
-|  |  3 | [Link]() | |
-|  |  4 | [Link]() ||
-|  |  5 | [Link]() | |
-|  |  6 | [Link]() | |
+|  |  2 | [Empty]() ||
+|  |  3 | [Empty]() | |
+|  |  4 | [Empty]() ||
+|  |  5 | [Empty]() | |
+|  |  6 | [Empty]() | |
 |  |  7 |  | --- Reading Week --- |
-|  |  8 | [Link]() | |
-|  |  9 | [Link]() | |
-|  |  10 | [Link]() |  |
-|  |  11 | [Link]() | |
-|  |  12 | [Link]() |  |
+|  |  8 | [Empty]() | |
+|  |  9 | [Empty]() | |
+|  |  10 | [Empty]() |  |
+|  |  11 | [Empty]() | |
+|  |  12 | [Empty]() |  |

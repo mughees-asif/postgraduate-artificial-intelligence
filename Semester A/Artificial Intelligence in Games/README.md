@@ -7,8 +7,8 @@
 
 | Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|
-| A |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/notes/Week%201) | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/misc) |
-|  |  2 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/notes/Week%202) ||
+| A |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/notes/Week%201) | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/labs/Lab%201) |
+|  |  2 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/notes/Week%202) | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/labs/Lab%202) |
 |  |  3 | [Empty]() | |
 |  |  4 | [Empty]() ||
 |  |  5 | [Empty]() | |

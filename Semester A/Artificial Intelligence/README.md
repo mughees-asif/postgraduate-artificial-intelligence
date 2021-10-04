@@ -7,9 +7,9 @@
 - Understanding and practical experience of logic and inference;
 - Understanding and practical experience of machine learning.
 
-| Semester   |      Week |  Notes | Miscellaneous  |
+| Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|
-| A |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%201) | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/misc) |
+| A |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%201) | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/labs/Lab%201) |
 |  |  2 | [Empty]() ||
 |  |  3 | [Empty]() | |
 |  |  4 | [Empty]() ||

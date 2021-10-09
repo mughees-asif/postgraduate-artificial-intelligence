@@ -15,7 +15,7 @@
 |  |  4 | [Empty]() ||
 |  |  5 | [Empty]() | |
 |  |  6 | [Empty]() | |
-|  |  7 |  | --- Reading Week --- |
+|  |  7 | --- Reading |  Week --- |
 |  |  8 | [Empty]() | |
 |  |  9 | [Empty]() | |
 |  |  10 | [Empty]() |  |

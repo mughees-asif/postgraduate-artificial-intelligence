@@ -11,7 +11,7 @@ Recent years have seen a sharp rise in the use of speech- and language-processin
 |  |  4 | [Empty]() ||
 |  |  5 | [Empty]() | |
 |  |  6 | [Empty]() | |
-|  |  7 |  | --- Reading Week --- |
+|  |  7 | --- Reading  | Week --- |
 |  |  8 | [Empty]() | |
 |  |  9 | [Empty]() | |
 |  |  10 | [Empty]() |  |

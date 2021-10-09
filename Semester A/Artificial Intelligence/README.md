@@ -10,7 +10,7 @@
 | Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|
 | A |  1 | Basic Introduction to AI | --- |
-|  |  2 | [Empty]() ||
+|  |  2 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%202) ||
 |  |  3 | [Empty]() | |
 |  |  4 | [Empty]() ||
 |  |  5 | [Empty]() | |

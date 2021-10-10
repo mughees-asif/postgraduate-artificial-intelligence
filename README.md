@@ -24,3 +24,16 @@
 |  |    Artificial Intelligence    | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/) | 
 |  | Machine Learning | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/) | 
 |  | Natural Language Processing | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/) | 
+
+#### Contributing 👋
+
+##### Pull Request Process
+
+* [Github Flow](https://guides.github.com/introduction/flow/index.html): So all `code` changes happen through pull requests:
+	* Fork the repo and create your branch from `master`.
+	* If you've added code that should be tested, add tests.
+	* If you've changed APIs, update the documentation.
+	* Ensure the test suite passes.
+	* Make sure your code lints.
+	* Issue that pull request!
+	* Will be reviewed and merged.

@@ -2,7 +2,17 @@
 
 ## Queen Mary, University of London
 
-### 🚫 Personal Notes, Not Official 🚫
+*  🚫 Personal Notes, Not Official 🚫
+
+#### Cheatsheets 📬
+
+| Name |      Link      |  
+|:----------:|:-------------:|
+| Probability | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/assets/probability.pdf/) | 
+| Conda | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/assets/conda.pdf/) | 
+| Data Science with Python | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/assets/ds-python.pdf/) | 
+
+#### Resources 🍔
 
 | Semester   |      Module      |  Resources | 
 |:----------:|:-------------:|:------:|

@@ -30,10 +30,10 @@
 ##### Pull Request Process
 
 * [Github Flow](https://guides.github.com/introduction/flow/index.html): So all `code` changes happen through pull requests:
-	* Fork the repo and create your branch from `master`.
+	* [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repo and create your branch from `master`.
 	* If you've added code that should be tested, add tests.
 	* If you've changed APIs, update the documentation.
 	* Ensure the test suite passes.
 	* Make sure your code lints.
-	* Issue that pull request!
+	* Issue that [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)!
 	* Will be reviewed and merged.

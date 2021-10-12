@@ -2,7 +2,7 @@
 
 ## Queen Mary, University of London
 
-*  🚫 Personal Notes, Not Official 🚫
+🚫 Personal Notes, Not Official 🚫
 
 #### Cheatsheets 📬
 

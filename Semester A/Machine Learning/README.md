@@ -15,7 +15,7 @@
 |  |  4 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/notes/Week%204) | --- |
 |  |  5 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/notes/Week%205) | --- |
 |  |  6 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/notes/Week%206) | --- |
-|  |  7 | --- Reading |  Week --- |
+|  |  7 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/notes/Week%207) | --- |
 |  |  8 | [Empty]() | |
 |  |  9 | [Empty]() | |
 |  |  10 | [Empty]() |  |

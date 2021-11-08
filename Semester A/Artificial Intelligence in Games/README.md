@@ -5,6 +5,9 @@
 - Deep Learning 
 - Reinforcement Learning. 
 
+### Projects
+- [Monte Carlo Tree Search with Progressive Bias and Decaying Reward](https://github.com/mughees-asif/pommerman-java-qmul)
+
 | Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|
 | A |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/notes/Week%201) | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/labs/Lab%201) |

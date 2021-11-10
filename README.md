@@ -14,7 +14,7 @@
 | NumPy | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/assets/numpy.pdf/) |
 | Pandas | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/assets/pandas.pdf/) |
 | Matrices | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/assets/matrices.pdf/) |
-| Example equations in code | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/assets/equations.pdf/) |
+| Equations in code | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/assets/equations.pdf/) |
 
 #### Resources 🍔
 

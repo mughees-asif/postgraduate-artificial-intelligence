@@ -4,6 +4,8 @@
 
 This research focuses on _Pommerman_, which is a baseline multi-agent game with partial and full-observability options. The goal of the game is to be the last agent/team standing whilst progressing through the game equipped with player-health damaging bombs. The main aim of the study was to improve upon the classical Statistical Forward Planning algorithm: Monte Carlo Tree Search (MCTS). MCTS is a highly selective best-first search method used for determining optimal outcomes in a given domain by obtaining random samples from the decision space and constructing a search tree based on the results. The new agent, `MCTSBias`, was modified with progressive bias and the decaying reward strategy. The results highlight the decisive improvement in the overall performance of the new agent as compared to the vanilla `MCTS` which was outperformed during experimentation. In addition, other players with different technical architectures were also explored to validate `MCTSBias` performance.
 
+Placed in the top 16 out of 45 total teams.
+
 ### Setup
 
 * Open the project using a suitable IDE, such as [IntelliJ](https://www.jetbrains.com/idea/).

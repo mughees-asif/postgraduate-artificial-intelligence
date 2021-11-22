@@ -7,6 +7,9 @@
 - Understanding and practical experience of logic and inference;
 - Understanding and practical experience of machine learning.
 
+### Project
+- Agenda-based and Adversarial Search
+
 | Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|
 | A |  1 | Basic Introduction to AI | --- |

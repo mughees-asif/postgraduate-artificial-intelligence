@@ -8,7 +8,7 @@
 - Understanding and practical experience of machine learning.
 
 ### Project
-- Agenda-based and Adversarial Search
+- [Agenda-based and Adversarial Search](https://nbviewer.org/github/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20A/Artificial%20Intelligence/project/project1/180288337_final.ipynb)
 
 | Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|

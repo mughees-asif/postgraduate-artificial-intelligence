@@ -9,6 +9,7 @@
 
 ### Projects
 - [Regression and Neural Networks](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/projects/project1/)
+- [Clustering and Mixture-of-Gaussians (MoG)]()
 
 | Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|

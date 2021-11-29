@@ -19,6 +19,6 @@
 |  |  7 | --- Reading  | Week --- |
 |  |  8 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/notes/Week%208) | --- |
 |  |  9 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/notes/Week%209) | |
-|  |  10 | [Empty]() |  |
+|  |  10 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/notes/Week%210) |  |
 |  |  11 | [Empty]() | |
 |  |  12 | [Empty]() |  |

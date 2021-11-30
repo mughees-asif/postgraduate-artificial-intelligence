@@ -19,8 +19,8 @@
 |  |  5 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%205) | --- |
 |  |  6 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%206) | --- |
 |  |  7 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%207) | --- |
-|  |  8 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%208) | |
-|  |  9 | [Empty]() | |
-|  |  10 | [Empty]() |  |
-|  |  11 | [Empty]() | |
-|  |  12 | [Empty]() |  |
+|  |  8 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%208) | --- |
+|  |  9 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%208) | --- |
+|  |  10 | [Empty]() | --- |
+|  |  11 | [Empty]() | --- |
+|  |  12 | [Empty]() | --- |

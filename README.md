@@ -4,7 +4,16 @@
 
 🚫 Personal Notes, Not Official 🚫
 
-#### Cheatsheets 📬
+### Resources 🍔
+
+| Semester   |      Module      |  Resources | 
+|:----------:|:-------------:|:------:|
+| A |  Artificial Intelligence in Games | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/) | 
+|  |    Artificial Intelligence    | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/) | 
+|  | Machine Learning | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/) | 
+|  | Natural Language Processing | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/) | 
+
+### Cheatsheets 📬
 
 | Name |      Link      |  
 |:----------:|:-------------:|
@@ -16,18 +25,9 @@
 | Matrices | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/assets/matrices.pdf/) |
 | Equations in code | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/assets/equations.pdf/) |
 
-#### Resources 🍔
+### Contributing 👋
 
-| Semester   |      Module      |  Resources | 
-|:----------:|:-------------:|:------:|
-| A |  Artificial Intelligence in Games | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/) | 
-|  |    Artificial Intelligence    | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/) | 
-|  | Machine Learning | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/) | 
-|  | Natural Language Processing | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/) | 
-
-#### Contributing 👋
-
-##### Pull Request Process
+#### Pull Request Process
 
 * [Github Flow](https://guides.github.com/introduction/flow/index.html): So all `code` changes happen through pull requests:
 	* [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repo and create your branch from `master`.

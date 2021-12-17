@@ -9,7 +9,7 @@
 
 ### Project
 - [Agenda-based and Adversarial Search](https://nbviewer.org/github/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20A/Artificial%20Intelligence/project/project1/180288337_final.ipynb)
-- [Convolutional Neural Network]()
+- [Logic and Reasoning, Neural Networks and Classification]()
 
 | Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|

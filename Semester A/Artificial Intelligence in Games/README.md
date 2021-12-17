@@ -7,6 +7,7 @@
 
 ### Projects
 - [Monte Carlo Tree Search with Progressive Bias and Decaying Reward](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/projects/project1/)
+- [Atari games](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/projects/project2/)
 
 | Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|

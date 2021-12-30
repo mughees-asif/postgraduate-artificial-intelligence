@@ -19,5 +19,5 @@ Recent years have seen a sharp rise in the use of speech- and language-processin
 |  |  8 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/notes/Week%208) | --- |
 |  |  9 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/notes/Week%209) | --- |
 |  |  10 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/notes/Week%2010)  | --- |
-|  |  11 | [Empty]() | --- |
-|  |  12 | [Empty]() | --- |
+|  |  11 | --- | --- |
+|  |  12 | --- | --- |

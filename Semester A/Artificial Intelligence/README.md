@@ -11,6 +11,9 @@
 - [Agenda-based and Adversarial Search](https://nbviewer.org/github/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20A/Artificial%20Intelligence/project/project1/180288337_final.ipynb)
 - [Logic and Reasoning, Neural Networks and Classification](https://nbviewer.org/github/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20A/Artificial%20Intelligence/project/project2/180288337.ipynb)
 
+### Past examination papers
+- [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/pastpapers)
+
 | Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|
 | A |  1 | Basic Introduction to AI | --- |
@@ -23,5 +26,5 @@
 |  |  8 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%208) | --- |
 |  |  9 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%209) | --- |
 |  |  10 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/notes/Week%2010) | --- |
-|  |  11 | [Empty]() | --- |
-|  |  12 | [Empty]() | --- |
+|  |  11 | --- | --- |
+|  |  12 | --- | --- |

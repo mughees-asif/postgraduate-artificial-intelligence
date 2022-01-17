@@ -12,6 +12,10 @@
 |  |    Artificial Intelligence    | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/) | 
 |  | Machine Learning | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/) | 
 |  | Natural Language Processing | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/) | 
+| B |  --- | --- | 
+|  |  ---  | --- | 
+|  | --- | --- | 
+|  | --- | --- | 
 
 ### Cheatsheets 📬
 

@@ -6,7 +6,7 @@ Recent years have seen a sharp rise in the use of speech- and language-processin
 ### Projects
 
 - [Sequence Classification](https://nbviewer.org/github/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20A/Natural%20Language%20Processing/projects/project1/180288337_final.ipynb)
-- [Vector Space Semantics for Similarity between Eastenders Characters]()
+- [Vector Space Semantics for Similarity between Eastenders Characters](https://nbviewer.org/github/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20A/Natural%20Language%20Processing/projects/project2/180288337_code.ipynb)
 
 | Semester   |      Week |  Notes | Labs |
 |:----------:|:-------------:|:------:|:------:|

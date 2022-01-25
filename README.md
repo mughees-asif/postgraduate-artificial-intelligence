@@ -8,11 +8,11 @@
 
 | Semester   |      Module      |  Resources | 
 |:----------:|:-------------:|:------:|
-| A |  Artificial Intelligence in Games | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/) | 
+| _A_ |  Artificial Intelligence in Games | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence%20in%20Games/) | 
 |  |    Artificial Intelligence    | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/) | 
 |  | Machine Learning | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/) | 
 |  | Natural Language Processing | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/) | 
-| B | Deep Learning for Audio | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Deep%20Learning%20for%20Audio/) | 
+| _B_ | Deep Learning for Audio | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Deep%20Learning%20for%20Audio/) | 
 |  |  Information Retrieval  | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Information%20Retrieval/) | 
 |  | Music Informatics | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Music%20Informatics/) | 
 |  | Neural Networks and NLP | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Neural%20Networks%20and%20NLP/) | 

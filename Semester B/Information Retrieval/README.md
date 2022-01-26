@@ -9,7 +9,7 @@ This course will describe the IR field in details, both its theoretical and empi
 
 | Semester   |      Week |  Notes | 
 |:----------:|:-------------:|:------:|
-| A |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Information%20Retrieval/notes/Week%201) |
+| B |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Information%20Retrieval/notes/Week%201) |
 |  |  2 | [Link]() | 
 |  |  3 | [Link]() | 
 |  |  4 | [Link]() | 

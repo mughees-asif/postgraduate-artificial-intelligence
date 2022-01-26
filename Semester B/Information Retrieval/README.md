@@ -23,7 +23,7 @@ Retrieval tasks: Ad-hoc retrieval, classification, and summarisation.
 Special topics/applications such as image retrieval and logical IR.
 
 | Semester   |      Week |  Notes | 
-|:----------:|:-------------:|:------:|:------:|
+|:----------:|:-------------:|:------:|
 | A |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Information%20Retrieval/notes/Week%201) |
 |  |  2 | [Link]() | 
 |  |  3 | [Link]() | 

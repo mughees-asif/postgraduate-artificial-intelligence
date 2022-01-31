@@ -7,7 +7,7 @@ Natural Language Processing (NLP) has become one of the most important technolog
 | Semester   |      Week |  Notes | 
 |:----------:|:-------------:|:------:|
 | B |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Neural%20Networks%20and%20NLP/notes/Week%201) |
-|  |  2 | [Link]() | 
+|  |  2 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Neural%20Networks%20and%20NLP/notes/Week%202) | 
 |  |  3 | [Link]() | 
 |  |  4 | [Link]() | 
 |  |  5 | [Link]() | 

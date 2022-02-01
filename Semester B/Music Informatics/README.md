@@ -7,7 +7,7 @@ This module introduces students to state-of-the-art methods for the analysis of 
 | Semester   |      Week |  Notes | 
 |:----------:|:-------------:|:------:|
 | B |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Music%20Informatics/notes/Week%201) |
-|  |  2 | [Link]() | 
+|  |  2 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Music%20Informatics/notes/Week%202) | 
 |  |  3 | [Link]() | 
 |  |  4 | [Link]() | 
 |  |  5 | [Link]() | 

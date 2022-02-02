@@ -6,7 +6,7 @@ This module focuses on deep learning methods and how they can be used to address
 | Semester   |      Week |  Notes | 
 |:----------:|:-------------:|:------:|
 | B |  1 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Deep%20Learning%20for%20Audio%20and%20Music/notes/Week%201) | 
-|  |  2 | [Link]() | 
+|  |  2 | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Deep%20Learning%20for%20Audio%20and%20Music/notes/Week%202) | 
 |  |  3 | [Link]() | 
 |  |  4 | [Link]() |
 |  |  5 | [Link]() | 

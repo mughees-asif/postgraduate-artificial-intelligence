@@ -12,10 +12,10 @@
 |  |    Artificial Intelligence    | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/) | 
 |  | Machine Learning | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Machine%20Learning/) | 
 |  | Natural Language Processing | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/) | 
-| _B_ | Advanced Robotics | [Link]() | 
-|  |  Computational Creativity  | [Link]() | 
-|  | Deep Learning and Computer Vision | [Link]() | 
-|  | Interactive Agents & Procedural Generation | [Link]() | 
+| _B_ | Advanced Robotics | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Advanced%20Robotics) | 
+|  |  Computational Creativity  | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Computational%20Creativity) | 
+|  | Deep Learning and Computer Vision | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Deep%20Learning%20and%20Computer%20Vision) | 
+|  | Interactive Agents & Procedural Generation | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Interactive%20Agents%20%26%20Procedural%20Generation) | 
 
 ### Cheatsheets 📬
 
@@ -33,7 +33,7 @@
 
 #### Pull Request Process
 
-* [Github Flow](https://guides.github.com/introduction/flow/index.html): So all `code` changes happen through pull requests:
+* [Github Flow](https://guides.github.com/introduction/flow/index.html): All `code` changes happen through pull requests:
 	* [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repo and create your branch from `master`.
 	* If you've added code that should be tested, add tests.
 	* If you've changed APIs, update the documentation.

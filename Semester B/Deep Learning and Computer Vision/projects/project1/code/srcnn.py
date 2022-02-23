@@ -77,14 +77,15 @@ class SRCNN(nn.Module):
     def __init__(self):
         super(SRCNN, self).__init__()
 
-        self.conv1 = nn.Conv2d(in_channels=1, out_channels=64, kernel_size=(9, 9), padding='same', bias=True)
-        self.conv2 = nn.Conv2d(in_channels=64, out_channels=32, kernel_size=(1, 1), padding='same', bias=True)
-        self.conv3 = nn.Conv2d(in_channels=32, out_channels=1, kernel_size=(5, 5), padding='same', bias=True)
+        # CNN Layers
+        self.conv1 = nn.Conv2d(in_channels=1, out_channels=64, kernel_size=9, padding=4, bias=True)
+        self.conv2 = nn.Conv2d(in_channels=64, out_channels=32, kernel_size=1, padding=0, bias=True)
+        self.conv3 = nn.Conv2d(in_channels=32, out_channels=1, kernel_size=5, padding=2, bias=True)
 
-        # Init weights using Xavier
-        for m in self.modules():
-            if isinstance(m, nn.Conv2d):
-                nn.init.xavier_normal_(m.weight)
+        # Initialise weights
+        self.conv1.weight = torch.nn.Parameter(data=torch.Tensor(64, 1, 9, 9), requires_grad=True)
+        self.conv2.weight = torch.nn.Parameter(data=torch.Tensor(32, 64, 1, 1), requires_grad=True)
+        self.conv3.weight = torch.nn.Parameter(data=torch.Tensor(1, 32, 5, 5), requires_grad=True)
 
     def forward(self, x):
         out = F.relu(self.conv1(x))
@@ -114,21 +115,19 @@ with torch.no_grad():
 ##------ Add your code here: save the LR and SR images and compute the psnr
 # hints: use the 'iio.imsave()'  and ' skimage.metrics.peak_signal_noise_ratio()'
 
-# Convert Tensor to NumPy array
+# Prepare image for processing
 SR_image = output_.numpy()
-# Reshape array to match images
 SR_image = np.reshape(SR_image, (255, 255))
 
-# Calculate peak signal to noise ratio for SR
+# Calculate peak signal to noise ratios
 SR_psnr = skimage.metrics.peak_signal_noise_ratio(HR_image, SR_image)
-# Calculate peak signal to noise ratio for LR
 LR_psnr = skimage.metrics.peak_signal_noise_ratio(HR_image, LR_image)
 
-# Save all images
+# Save images
 iio.imsave('SR_image.png', img_as_ubyte(SR_image))
 iio.imsave('LR_image.png', img_as_ubyte(LR_image))
 iio.imsave('HR_image.png', img_as_ubyte(HR_image))
 
-# Print results
-print("SR_PSNR is \n ", SR_psnr)
-print("LR_PSNR is \n", LR_psnr)
+# Print the results
+print("SR_PSNR =", SR_psnr)
+print("LR_PSNR =", LR_psnr)

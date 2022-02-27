@@ -1,6 +1,12 @@
-# Name: Mughees Asif
+# `ROS` package for automatically generating point-to-point cubic trajectories connecting pairs of randomly-generated points
 
-## Student ID: 180288337
+<p align="center">
+    <img height=350 src="/assets/demo.gif">
+</p>
+
+### Name: Mughees Asif
+
+### Student ID: 180288337
 
 ### Setup instructions
 

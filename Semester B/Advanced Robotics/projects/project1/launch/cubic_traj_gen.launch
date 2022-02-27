@@ -1,0 +1,36 @@
+<!-- Initialize the nodes and plotting GUI -->
+
+<launch>
+
+  <!-- Node 1 -->
+  <node pkg="ar_week5_test" name="points_generator" type="points_generator.py" output="screen" launch-prefix="gnome-terminal --command"/>     
+
+  <!-- Node 2 -->
+  <node pkg="ar_week5_test" name="cubic_traj_planner" type="cubic_traj_planner.py" output="screen" launch-prefix="gnome-terminal --command"/>  
+
+  <!-- Node 3 -->
+  <node pkg="ar_week5_test" name="compute_cubic_coeffs" type="compute_cubic_coeffs.py" output="screen" launch-prefix="gnome-terminal --command"/> 
+
+  <!-- Node 4 -->
+  <node pkg="ar_week5_test" name="plot_cubic_traj" type="plot_cubic_traj.py" output="screen" launch-prefix="gnome-terminal --command"/>  
+
+  <!-- rqt_plot -->
+  <node pkg='rqt_plot' name='rqt_plot' type='rqt_plot' args='/position_trajectory  /velocity_trajectory   /acceleration_trajectory'/>      
+
+  <!-- rqt_graph -->
+  <node pkg='rqt_graph' name='rqt_graph' type='rqt_graph' />      
+ 
+</launch>
+
+
+
+
+
+
+
+
+
+
+
+
+ 

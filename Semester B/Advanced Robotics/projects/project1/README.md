@@ -1,7 +1,7 @@
 # `ROS` package for automatically generating point-to-point cubic trajectories connecting pairs of randomly-generated points
 
 <p align="center">
-    <img height=350 src="/assets/demo.gif">
+    <img height=350 src="https://github.com/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20B/Advanced%20Robotics/projects/project1/assets/demo.gif">
 </p>
 
 ### Name: Mughees Asif

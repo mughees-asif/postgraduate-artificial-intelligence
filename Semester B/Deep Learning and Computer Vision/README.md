@@ -5,3 +5,4 @@ Deep learning added a huge boost to the already rapidly developing field of comp
 
 ### Projects
 - [Super-Resolution Convolutional Neural Network (SRCNN)](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Deep%20Learning%20and%20Computer%20Vision/projects/project1)
+- [Generative Adversarial Networks (GANs)](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Deep%20Learning%20and%20Computer%20Vision/projects/project2)

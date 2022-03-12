@@ -8,8 +8,8 @@
 - Understanding and practical experience of machine learning.
 
 ### Projects
-- [Agenda-based and Adversarial Search](https://nbviewer.org/github/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20A/Artificial%20Intelligence/project/project1/180288337_final.ipynb)
-- [Logic and Reasoning, Neural Networks and Classification](https://nbviewer.org/github/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20A/Artificial%20Intelligence/project/project2/180288337.ipynb)
+- [Agenda-based and Adversarial Search](https://nbviewer.org/github/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20A/Artificial%20Intelligence/projects/project1/180288337_final.ipynb)
+- [Logic and Reasoning, Neural Networks and Classification](https://nbviewer.org/github/mughees-asif/postgraduate-artificial-intelligence/blob/master/Semester%20A/Artificial%20Intelligence/projects/project2/180288337.ipynb)
 
 ### Past examination papers
 - [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Artificial%20Intelligence/pastpapers)

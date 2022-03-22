@@ -33,7 +33,7 @@
 
 #### Pull Request Process
 
-* [Github Flow](https://guides.github.com/introduction/flow/index.html): All `code` changes happen through pull requests:
+* [Github Flow](https://guides.github.com/introduction/flow/index.html): All `code` updates happen through pull requests:
 	* [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repo and create your branch from `master`.
 	* If you've added code that should be tested, add tests.
 	* If you've changed APIs, update the documentation.

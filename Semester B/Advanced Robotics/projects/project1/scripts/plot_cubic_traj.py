@@ -9,7 +9,7 @@ import numpy as np
 
 # Subscribes to the ROS Topic created by Node 2
 # Reads the a0,a1,a2,a3 coefficients and t0,tf time parameters published every 20 seconds,
-# Publishs three separate ROS topics: position trajectory, velocity trajectory and acceleration trajectory
+# Publishes three separate ROS topics: position trajectory, velocity trajectory and acceleration trajectory
 # Visualized with the rqt_plot GUI, on the same plot, with different colors
 class ReadCoeffs():
 

@@ -13,20 +13,20 @@
 - Python version 2.7.
 
 - Unzip the folder in the `catkin_ws` directory in the `src` sub-folder:
-	`~/catkin_ws/src/ar_week5_test`
+	- `~/catkin_ws/src/ar_week5_test`
 
 - Launch terminal, change directory to `~/catkin_ws/`, and build the package:
-	`$ cd ~/catkin_ws/`
-	`$ catkin_make`
+	- `$ cd ~/catkin_ws/`
+	- `$ catkin_make`
 
 - Run the setup file:
-	`$ . ~/catkin_ws/devel/setup.bash`
+	- `$ . ~/catkin_ws/devel/setup.bash`
 
 - Change directory to the launch folder using `ROS`:
-	`$ roscd ar_week5_test/launch`
+	- `$ roscd ar_week5_test/launch`
 
 - Launch GUI:
-	`$roslaunch cubic_traj_gen.launch$`
+	- `$roslaunch cubic_traj_gen.launch$`
 
 #### Note
 

@@ -5,3 +5,4 @@ Modern video games employ various agents that interact with the player as oppone
 
 ### Projects
 - [AI Companions in _Bioshock Infinite_ and _The Last of Us_](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Interactive%20Agents%20%26%20Procedural%20Generation/projects/project1)
+- [IslandWalk 🏝🚶‍♂️](https://github.com/mughees-asif/interactive-agent-procedural-generation)

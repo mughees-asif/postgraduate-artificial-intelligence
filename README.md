@@ -14,7 +14,7 @@
 |  | Natural Language Processing | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20A/Natural%20Language%20Processing/) | 
 | _B_ | Advanced Robotics | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Advanced%20Robotics) | 
 |  |  Computational Creativity  | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Computational%20Creativity) | 
-|  | Deep Learning and Computer Vision | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Deep%20Learning%20and%20Computer%20Vision) | 
+|  | Deep Learning & Computer Vision | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Deep%20Learning%20and%20Computer%20Vision) | 
 |  | Interactive Agents & Procedural Generation | [Link](https://github.com/mughees-asif/postgraduate-artificial-intelligence/tree/master/Semester%20B/Interactive%20Agents%20%26%20Procedural%20Generation) | 
 
 ### Cheatsheets 📬

@@ -5,7 +5,7 @@ import random
 from std_msgs.msg import Float64
 
 # Generate a random value for the size of the square (i.e. the length of the side of the square)
-# Every 20 seconds#
+# Every 20 seconds
 # Publish them on a ROS Topic using an appropriate message.
 def main():
     pub = rospy.Publisher('square_size', Float64, queue_size=10)

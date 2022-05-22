@@ -2,8 +2,6 @@
 
 ## Queen Mary, University of London
 
-🚫 Personal Notes, Not Official 🚫
-
 ### Resources 🍔
 
 | Semester   |      Module      |  Resources | 

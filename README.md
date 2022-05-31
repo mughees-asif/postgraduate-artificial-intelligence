@@ -1,8 +1,6 @@
-# Postgraduate [Artificial Intelligence](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/) Course Resources
+# Postgraduate [Artificial Intelligence](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/) 
 
 ## Queen Mary, University of London
-
-🚫 Personal Notes, Not Official 🚫
 
 ### Resources 🍔
 

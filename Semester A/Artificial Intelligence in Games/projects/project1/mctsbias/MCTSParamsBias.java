@@ -25,7 +25,7 @@ public class MCTSParamsBias implements ParameterSet {
 
     // Parameters
     public double K = Math.sqrt(2);
-    public int rollout_depth = 10;//10;
+    public int rollout_depth = 10;
     public int heuristic_method = CUSTOM_HEURISTIC;
 
     // Budget settings

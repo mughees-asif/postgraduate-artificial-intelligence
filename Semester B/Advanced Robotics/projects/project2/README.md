@@ -5,8 +5,6 @@
 </p>
 
 ## Name: Mughees Asif
-## Student ID: 180288337
-
 
 ### Setup instructions
 

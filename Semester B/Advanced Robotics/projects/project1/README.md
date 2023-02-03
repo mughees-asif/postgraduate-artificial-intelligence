@@ -6,8 +6,6 @@
 
 ### Name: Mughees Asif
 
-### Student ID: 180288337
-
 ### Setup instructions
 
 - Python version 2.7.
